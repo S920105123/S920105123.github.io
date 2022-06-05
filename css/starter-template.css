@@ -2,8 +2,12 @@ body {
 	padding-top: 50px;
 	background-color: Wheat;
 }
+.navbar-brand {
+	color: White;
+}
 .custom-nav-text {
 	color: White;
+	font-size: 1.5rem;
 }
 .navbar-toggle {
 	border-color: White;
